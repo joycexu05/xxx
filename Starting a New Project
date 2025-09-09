@@ -1,0 +1,10 @@
+# Create project directory
+mkdir my_rust_project
+cd my_rust_project
+
+# Initialize Git repository
+git init
+
+# Check status
+git status
+
